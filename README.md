@@ -8,4 +8,4 @@ This repository is used to learn Git and GitHub.
 - Learn branching
 - Practice pull requests
 - Learn GitHub Actions
-- and much more
+- and much more, an dmore
